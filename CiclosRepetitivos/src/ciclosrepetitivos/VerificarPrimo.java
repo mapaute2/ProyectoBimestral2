@@ -22,9 +22,9 @@ public class VerificarPrimo {
         
         num = 0; cont = 1; n = 1;cont1 = 1; divisor = 0;
         
-        System.out.println(" Programa para verificar si un número es primo");
+        System.out.println(" cont");
         
-        // Ingresar datos de netrada
+        // Ingresar datos de entrada
         
         System.out.println(" Ingrese el limite de números a verificar si son primos");
         n = leer.nextInt();

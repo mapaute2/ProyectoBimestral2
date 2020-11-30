@@ -39,9 +39,9 @@ public class PotenciaNumero {
             cont = cont + 1;
         }
         
-        System.out.println(" La potencia de: "+base+" elevado a "+pot+" es "+result);
-        
         // Presentar el resultado 
+        System.out.println(" La potencia de: "+base+" elevado a "+pot+" es "+result);
+   
         
         
         

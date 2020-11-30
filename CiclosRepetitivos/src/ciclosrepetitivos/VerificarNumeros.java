@@ -40,7 +40,7 @@ public class VerificarNumeros {
                 sumImpar = sumImpar + num; 
             }
             
-            if (num < 0){   // Verifica si un número es positivo y suma
+            if (num > 0){   // Verifica si un número es positivo y suma
                 sumPosi = sumPosi + num;
             }
             else {          // Suma de negativos 
